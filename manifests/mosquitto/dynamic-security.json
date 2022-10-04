@@ -61,9 +61,9 @@
     }
   ],
   "defaultACLAccess": {
-    "publishClientSend": false,
+    "publishClientSend": true,
     "publishClientReceive": true,
-    "subscribe": false,
+    "subscribe": true,
     "unsubscribe": true
   }
 }
